@@ -1,6 +1,8 @@
 <p align=center><img src="medium_bbichero.jpg" class="img-circle" alt="baptiste"/></p>
 
-<p align=center><h3>Baptiste Bicheron</h3></p>
+<h3 align=center>Baptiste Bicheron</h3>
+
+<br/>
 
 <p align=center>
    <img src="Telegram-%2540bbichero-blue.svg" alt="Telegram"/>
@@ -10,14 +12,12 @@
    <a href="https://raw.githubusercontent.com/bbichero/CV/master/publickey.baptiste@bicheron.com.asc"><img src="gpg-E74EAF31C8EEDEFC-brightgreen.svg" alt="GPG_key"></a>
 </p>
 
----
 <br/>
 
 System maintenance, Storage avaibilty, Network redundancy, Installation automatisation and
 documentation writing are ability that I'm testting and learning everyday for my personal purpose.
 I'm still studing at 42 school in Paris where I learned: helping others, coding, work in group
 and for me the most important thing: learn how to learn.
-
 <br/>
 
 Latest projects
