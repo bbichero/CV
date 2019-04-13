@@ -61,7 +61,7 @@ Develop and maintain Station F network architecture.
 ##### (2014 - 2019) Paris 17
 Free and non-profit school to learn computer science, "peer-to-perr" coding with passionate people.
 
-#### Scientific Bachelor
+#### Scientific Bachelor [Lycée Louis Pasquet](http://www.lyc-pasquet.ac-aix-marseille.fr/spip/)
 ##### (2011 - 2013) Arles 13
 A General Scientific bachelor with Ingenior Sciences option in the south of France.
 
