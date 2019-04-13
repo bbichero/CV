@@ -15,8 +15,8 @@
 <br/>
 
 System maintenance, Storage avaibilty, Network redundancy, Installation automatisation and
-documentation writing are ability that I'm testting and learning everyday for my personal purpose.
-I'm still studing at 42 school in Paris where I learned: helping others, coding, work in group
+documentation writing are ability that I'm testing and learning everyday for my personal purpose.
+I'm still studying at 42 school in Paris, where I learned: helping others, coding, work in a group
 and for me the most important thing: learn how to learn.
 <br/>
 
@@ -43,7 +43,7 @@ Develop and create tools for the Internet Exchange peering point
 
 #### IT intern [Station F](https://stationf.co/)
 ##### September 2017 (6 months) Paris 13
-Welcome the newly-arrived, create badge, maintain Wifi, camera and network infrastructure.
+Welcome the newly-arrived, create badges, maintain Wifi, camera and network infrastructure.
 
 ---
 
@@ -79,18 +79,18 @@ A General Scientific bachelor with Ingenior Sciences option in the south of Fran
 
 ### System
 - Debian (4 years)
-- Virtualisation => KVM / QEMU (2 years)
-- Database => Mysql / Mariadb / PostgreSQL (2 years)
-- VM and Filesystem managment => Libvirt / Libguestfs (2 years)
-- Container managment => Docker (1 years)
-- Automatisation => Ansible / Terraform (1 year)
-- Proxmox / Ovirt (6 months)
-- Network => VLAN, VPN, Firewall, DNS, DHCP (3 years)
+- Virtualization              -> KVM / QEMU (2 years)
+- Database                    -> Mysql / Mariadb / PostgreSQL (2 years)
+- VM and Filesystem managment -> Libvirt / Libguestfs (2 years)
+- Container managment         -> Docker (1 years)
+- Automatisation              -> Ansible / Terraform (1 year)
+- Virtualization manager      -> Proxmox / Ovirt (6 months)
+- Network                     -> VLAN, VPN, Firewall, DNS, DHCP (3 years)
 - VMware ESXi (1 yers)
 
 ### Hardware
 - DELL / IBM servers (2 years)
-- Cisco switch / router (1 years)
+- Cisco switchs / router (1 years)
 - Raspberry Pi 3
 
 ### Languages
