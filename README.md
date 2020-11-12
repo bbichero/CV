@@ -17,7 +17,7 @@
 System maintenance, Storage avaibilty, Network redundancy, Installation automatisation and
 documentation writing are ability that I'm testing and learning everyday for my personal purpose.
 I'm still studying at 42 school in Paris, where I learned: helping others, coding, work in a group
-and for me the most important thing: learn how to learn.
+and for me the most important thing: Learning How to Learn.
 <br/>
 
 Latest projects
@@ -26,10 +26,12 @@ Latest projects
 - [Roger skyline 2](https://gitlab.com/roger-skyline/rs-2), a micro entreprise-like infrastructure in 10 VMs, with mail
 server, ldap, gateway, loadbalancer,  monitoring automatisation, ...
 - [Documentation](https://gitlab.com/bbichero/documentation), a list of documentations files from software, and other stuff I install and use.
+- [Ukeep](https://gitlab.com/ukeep), Make backup easier, a multiplatform application to backup data
+- [Redfish exporter](https://github.com/42School/redfish-exporter), Prometheus exporter for Redfish IDRAC API (DELL servers)
 
 Current projects
 ---
-- [Ukeep](https://gitlab.com/ukeep), Make backup easier, a multiplatform application to backup data
+- [Cleandoc](https://gitlab.com/bbichero/cleandoc.org), Make better documentation with an automated testing system. 
 
 <br/>
 
@@ -49,9 +51,13 @@ Welcome the newly-arrived, create badges, maintain Wifi, camera and network infr
 
 #### IT officer [Station F](https://stationf.co/)
 ##### March 2018 (6 months) Paris 13
-Develop and maintain Station F network architecture.
+Develop and maintain Station F network architecture.   
 
 ---
+
+#### Responsable SI [42](http://www.42.fr/)
+##### Jun 2019 (1 year and 4 months) Paris 17   
+Maintain and enhance / services IT infrastructure with a team
 
 <br/>
 
@@ -78,20 +84,22 @@ A General Scientific bachelor with Ingenior Sciences option in the south of Fran
 - Rust (Starting learn)
 
 ### System
+- Fedora (1 year)
 - Debian (4 years)
+- Monitoring                  -> Prometheus (1 year)
 - Virtualization              -> KVM / QEMU (2 years)
 - Database                    -> Mysql / Mariadb / PostgreSQL (2 years)
 - VM and Filesystem managment -> Libvirt / Libguestfs (2 years)
-- Container managment         -> Docker (1 years)
+- Container managment         -> Docker (3 years) and Kubernetes (started)
 - Automatisation              -> Ansible / Terraform (1 year)
 - Virtualization manager      -> Proxmox / Ovirt (6 months)
 - Network                     -> VLAN, VPN, Firewall, DNS, DHCP (3 years)
-- VMware ESXi (1 yers)
+- VMware ESXi (1 year)
 
 ### Hardware
 - DELL / IBM servers (2 years)
-- Cisco switchs / router (1 years)
-- Raspberry Pi 3
+- Cisco switchs / router (1 year)
+- Raspberry Pi
 
 ### Languages
 - French
