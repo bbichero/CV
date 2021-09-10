@@ -55,9 +55,15 @@ Develop and maintain Station F network architecture.
 
 ---
 
+#### Stage SI [42](http://www.42.fr/)
+##### Jun 2019 (6 months) Paris 17   
+Maintain and enhance / services IT infrastructure in a team
+
+---
+
 #### Responsable SI [42](http://www.42.fr/)
-##### Jun 2019 (1 year and 4 months) Paris 17   
-Maintain and enhance / services IT infrastructure with a team
+##### Dec 2019 (now) Paris 17   
+Maintain and enhance / services IT infrastructure in a team
 
 <br/>
 
@@ -77,11 +83,10 @@ A General Scientific bachelor with Ingenior Sciences option in the south of Fran
 
 ### Programing language
 - C (when enter at 42)
-- PHP (3 years)
-- Python (1 year)
+- PHP (2 years)
+- Python (3 year)
 - Bash (when enter at 42)
 - NodeJS (2 years)
-- Rust (Starting learn)
 
 ### System
 - Fedora (1 year)
@@ -91,14 +96,13 @@ A General Scientific bachelor with Ingenior Sciences option in the south of Fran
 - Database                    -> Mysql / Mariadb / PostgreSQL (2 years)
 - VM and Filesystem managment -> Libvirt / Libguestfs (2 years)
 - Container managment         -> Docker (3 years) and Kubernetes (started)
-- Automatisation              -> Ansible / Terraform (1 year)
-- Virtualization manager      -> Proxmox / Ovirt (6 months)
-- Network                     -> VLAN, VPN, Firewall, DNS, DHCP (3 years)
-- VMware ESXi (1 year)
+- Automatisation              -> Ansible / Terraform (3 year)
+- Virtualization manager      -> Vmware stack / Proxmox / Ovirt (2 years)
+- Network                     -> VLAN, VPN, Firewall, DNS, DHCP (4 years)
 
 ### Hardware
-- DELL / IBM servers (2 years)
-- Cisco switchs / router (1 year)
+- DELL / IBM servers (4 years)
+- Cisco switchs / router (3 year)
 - Raspberry Pi
 
 ### Languages
