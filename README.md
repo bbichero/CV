@@ -1,4 +1,4 @@
-<p align=center><img src="medium_bbichero.jpg" class="img-circle" alt="baptiste"/></p>
+<p align=center><img src="bibiche.jpg" class="img-circle" alt="baptiste" width="200" height="200"/></p>
 
 <h3 align=center>Baptiste Bicheron</h3>
 
@@ -16,8 +16,8 @@
 
 System maintenance, Storage avaibilty, Network redundancy, Installation automatisation and
 documentation writing are ability that I'm testing and learning everyday for my personal purpose.
-I'm still studying at 42 school in Paris, where I learned: helping others, coding, work in a group
-and for me the most important thing: Learning How to Learn.
+I studied at 42 school in Paris, where I learned to helping others, coding, work in a group   
+and the most important thing: Learning How to Learn.
 <br/>
 
 Latest projects
@@ -29,7 +29,7 @@ server, ldap, gateway, loadbalancer,  monitoring automatisation, ...
 - [Ukeep](https://gitlab.com/ukeep), Make backup easier, a multiplatform application to backup data
 - [Redfish exporter](https://github.com/42School/redfish-exporter), Prometheus exporter for Redfish IDRAC API (DELL servers)
 
-Current projects
+Current projects (deprecated)
 ---
 - [Cleandoc](https://gitlab.com/bbichero/cleandoc.org), Make better documentation with an automated testing system. 
 
@@ -62,8 +62,8 @@ Maintain and enhance / services IT infrastructure in a team
 ---
 
 #### Responsable SI [42](http://www.42.fr/)
-##### Dec 2019 (now) Paris 17   
-Maintain and enhance / services IT infrastructure in a team
+##### Dec 2019 - jun 2022 (2.5 years) Paris 17
+Maintain enhance / services IT infrastructure and manage a team (4 people)
 
 <br/>
 
@@ -80,29 +80,50 @@ A General Scientific bachelor with Ingenior Sciences option in the south of Fran
 <br/>
 
 ## Stack
+Notation system : from 1 to 5 (noob to expert)
 
 ### Programing language
-- C (when enter at 42)
-- PHP (2 years)
-- Python (3 year)
-- Bash (when enter at 42)
-- NodeJS (2 years)
+- C (when enter at 42) -> (2/5)
+- PHP (1-2 years) -> (2/5)
+- Python (3 year) -> (3/5)
+- Bash (when enter at 42) -> (2/5)
+- NodeJS (2 years) -> (2/5)
+- Starting Golang -> (1/5)
 
 ### System
-- Fedora (1 year)
-- Debian (4 years)
-- Monitoring                  -> Prometheus (1 year)
-- Virtualization              -> KVM / QEMU (2 years)
-- Database                    -> Mysql / Mariadb / PostgreSQL (2 years)
-- VM and Filesystem managment -> Libvirt / Libguestfs (2 years)
-- Container managment         -> Docker (3 years) and Kubernetes (started)
-- Automatisation              -> Ansible / Terraform (3 year)
-- Virtualization manager      -> Vmware stack / Proxmox / Ovirt (2 years)
-- Network                     -> VLAN, VPN, Firewall, DNS, DHCP (4 years)
+- Linux based system (Debian / Fedora) (6 years)
+- Monitoring (install / maintain / backup) (3/5)
+   - Prometheus
+   - SNMP based (ZABBIX / Observium)
+- Virtualization (KVM / QEMU)
+- Database (install / maintain / backup) (3/5)
+   - MySQL
+   - MariaDB
+   - PostgreSQL
+- VM and Filesystem managment (Libvirt / Libguestfs) -> (3/5)
+- Container managment (install / maintain / backup)
+   - Docker -> (4/5)
+   - Kubernetes -> (2/5)
+- Automatisation (install / use)
+   - Ansible -> (4/5)
+   - Terraform -> (2/5)
+- Virtualization manager (install / maintain / backup)
+   - Vmware stack -> (3/5)
+   - Proxmox / Ovirt -> (3/5)
+- Network
+   - Linux services (install / maintain) (3/5)
+      - DNS
+      - DHCP
+      - Standart networking CLI tools
+   - IOS Cisco (use)
+      - VLAN
 
 ### Hardware
-- DELL / IBM servers (4 years)
-- Cisco switchs / router (3 year)
+- DELL / IBM servers
+- Netgate Pfsense
+- Cisco
+   - switch (2960s)
+   - router (9300)
 - Raspberry Pi
 
 ### Languages
