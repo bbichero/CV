@@ -39,7 +39,7 @@ Current projects (deprecated)
 
 #### Internet exchange intern [Equinix](https://www.equinix.fr/locations/europe-colocation/france-colocation/paris-data-centers/)
 ##### January 2016 (1 year) Pantin Paris
-Develop and create tools for the Internet Exchange peering point
+Develop and create tools in PHP for the Internet Exchange peering point
 
 ---
 
@@ -52,18 +52,28 @@ Welcome the newly-arrived, create badges, maintain Wifi, camera and network infr
 #### IT officer [Station F](https://stationf.co/)
 ##### March 2018 (6 months) Paris 13
 Develop and maintain Station F network architecture.   
+- maintain VMware VM cluster and network infrastructure
+- enhance badge system, add QR code reader system
+- basic IT stuff (install / update / maintain linux environement, ...)
 
 ---
 
 #### Stage SI [42](http://www.42.fr/)
 ##### Jun 2019 (6 months) Paris 17   
 Maintain and enhance / services IT infrastructure in a team
+- enhance badge system, create python API to automate badge managment
+- upgrade system configurations (ansible) and operation system from macOS El Capitan to Mojave for more than 800 iMacs
+- basic IT stuff (install, update, maintain linux / cisco environement ...)
 
 ---
 
 #### Responsable SI [42](http://www.42.fr/)
 ##### Dec 2019 - jun 2022 (2.5 years) Paris 17
 Maintain enhance / services IT infrastructure and manage a team (4 people)
+- maintain VMware VM cluster and network infrastructure
+- manage team (from 2 to 4 people), roundmap, drive priorities, ...
+- manage technical part for futur building
+- basic IT stuff (install, update, maintain linux / cisco environement ...)
 
 <br/>
 
