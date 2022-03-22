@@ -14,8 +14,8 @@
 
 <br/>
 
-System maintenance, Storage avaibilty, Network redundancy, Installation automatisation and
-documentation writing are ability that I'm testing and learning everyday for my personal purpose.
+System maintenance, Storage availability, Network redundancy, Installation automatisation and
+documentation writing are abilities that I'm testing and learning everyday for my personal purpose.
 I studied at 42 school in Paris, where I learned to helping others, coding, work in a group   
 and the most important thing: Learning How to Learn.
 <br/>
@@ -23,9 +23,9 @@ and the most important thing: Learning How to Learn.
 Latest projects
 ---
 - [Gitarchive](https://gitlab.com/gitarchive.com), a microservice architecture web pages crawler with git history.
-- [Roger skyline 2](https://gitlab.com/roger-skyline/rs-2), a micro entreprise-like infrastructure in 10 VMs, with mail
-server, ldap, gateway, loadbalancer,  monitoring automatisation, ...
-- [Documentation](https://gitlab.com/bbichero/documentation), a list of documentations files from software, and other stuff I install and use.
+- [Roger skyline 2](https://gitlab.com/roger-skyline/rs-2), a micro enterprise-like infrastructure in 10 VMs, with mail
+server, ldap, gateway, load balancer,  monitoring automatisation, ...
+- [Documentation](https://gitlab.com/bbichero/documentation), a list of documentation files from software, and other stuff I install and use.
 - [Ukeep](https://gitlab.com/ukeep), Make backup easier, a multiplatform application to backup data
 - [Redfish exporter](https://github.com/42School/redfish-exporter), Prometheus exporter for Redfish IDRAC API (DELL servers)
 
@@ -54,26 +54,26 @@ Welcome the newly-arrived, create badges, maintain Wifi, camera and network infr
 Develop and maintain Station F network architecture.   
 - maintain VMware VM cluster and network infrastructure
 - enhance badge system, add QR code reader system
-- basic IT stuff (install / update / maintain linux environement, ...)
+- basic IT stuff (install / update / maintain linux environment, ...)
 
 ---
 
 #### Stage SI [42](http://www.42.fr/)
-##### Jun 2019 (6 months) Paris 17   
+##### June 2019 (6 months) Paris 17   
 Maintain and enhance / services IT infrastructure in a team
-- enhance badge system, create python API to automate badge managment
+- enhance badge system, create python API to automate badge management
 - upgrade system configurations (ansible) and operation system from macOS El Capitan to Mojave for more than 800 iMacs
-- basic IT stuff (install, update, maintain linux / cisco environement ...)
+- basic IT stuff (install, update, maintain linux / cisco environment ...)
 
 ---
 
 #### Responsable SI [42](http://www.42.fr/)
-##### Dec 2019 - jun 2022 (2.5 years) Paris 17
+##### Dec 2019 - june 2022 (2.5 years) Paris 17
 Maintain enhance / services IT infrastructure and manage a team (4 people)
 - maintain VMware VM cluster and network infrastructure
-- manage team (from 2 to 4 people), roundmap, drive priorities, ...
-- manage technical part for futur building
-- basic IT stuff (install, update, maintain linux / cisco environement ...)
+- manage a team (from 2 to 4 people), roundmap, drive priorities, ...
+- manage technical part for future building
+- basic IT stuff (install, update, maintain linux / cisco environment ...)
 
 <br/>
 
@@ -81,7 +81,7 @@ Maintain enhance / services IT infrastructure and manage a team (4 people)
 
 #### Computer Science [42](https://42.fr/)
 ##### (2014 - 2019) Paris 17
-Free and non-profit school to learn computer science, "peer-to-perr" coding with passionate people.
+Free and non-profit school to learn computer science, "peer-to-peer" coding with passionate people.
 
 #### Scientific Bachelor [Lycée Louis Pasquet](http://www.lyc-pasquet.ac-aix-marseille.fr/spip/)
 ##### (2011 - 2013) Arles 13
@@ -110,8 +110,8 @@ Notation system : from 1 to 5 (noob to expert)
    - MySQL
    - MariaDB
    - PostgreSQL
-- VM and Filesystem managment (Libvirt / Libguestfs) -> (3/5)
-- Container managment (install / maintain / backup)
+- VM and Filesystem management (Libvirt / Libguestfs) -> (3/5)
+- Container management (install / maintain / backup)
    - Docker -> (4/5)
    - Kubernetes -> (2/5)
 - Automatisation (install / use)
@@ -143,4 +143,4 @@ Notation system : from 1 to 5 (noob to expert)
 ## Hobies
 - Nature
 - Grow plants
-- Computer science and server managment
+- Computer science and server management
